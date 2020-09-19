@@ -3,4 +3,6 @@
 
 ## **Esse repositório contém linguagens e tecnologias como** :
 
-* :computer: TypeScript 
+* :computer: [TypeScript](https://www.typescriptlang.org/docs)
+
+* :pencil2: [Styled Components](https://styled-components.com/)
