@@ -1,6 +1,6 @@
 # Estudos
-Repositório dedicado aos meus estudos em novas linguagens de programação , bibliotecas e tecnologias :blue_book: .
+:blue_book:Repositório dedicado aos meus estudos em novas linguagens de programação , bibliotecas e tecnologias  .
 
 ## **Esse repositório contém linguagens e tecnologias como** :
 
-* TypeScript :computer:
+* :computer: TypeScript 
