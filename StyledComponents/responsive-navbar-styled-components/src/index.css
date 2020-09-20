@@ -1,0 +1,9 @@
+:root{
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+li{
+    font-size: 1.5em;
+}
